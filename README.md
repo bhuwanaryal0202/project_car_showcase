@@ -1,4 +1,5 @@
 # Car Showcase Website using Next.js and Rapid API
+![Homepage](public/readmeImage.png)
 
 This is a Car Showcase Website built using the Next.js framework and integrated with the Rapid API to retrieve car data for display.
 
